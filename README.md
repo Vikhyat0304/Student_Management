@@ -33,6 +33,24 @@ A **full-featured Student Management System** developed using **PHP**, **MySQL**
 
 ---
 
+## 📸 Screenshots
+
+> Place all images inside the `screenshots/` folder in your repo.
+
+| 📍 Page | Preview |
+|--------|---------|
+| 🔐 **Admin Login** | ![Admin Login](screenshots/admin-login.png) |
+| 🧑‍💼 **Dashboard** | ![Dashboard](screenshots/dashboard.png) |
+| ➕ **Add New Student** | ![Add New Student](screenshots/add-new-student.png) |
+| 📋 **Student List** | ![Student List](screenshots/student-list.png) |
+| 👤 **Add New User** | ![Add New User](screenshots/add-new-user.png) |
+| 👥 **User List** | ![User List](screenshots/user-list.png) |
+| 📚 **Course List** | ![Course List](screenshots/course-list.png) |
+| 🏛️ **Department List** | ![Department List](screenshots/department-list.png) |
+| ⚙️ **System Update** | ![System Update](screenshots/system-update.png) |
+
+---
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
